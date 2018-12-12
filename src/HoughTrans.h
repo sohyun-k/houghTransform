@@ -11,10 +11,6 @@ private :
 	std::vector<std::vector<ofFloatColor>> pointCloudsColor;
 	std::vector<ofVec3f> rotData, transData;
 
-
-
-
-
 public:
 	void loadPtCloudData();
 	void drawMesh();
